@@ -78,8 +78,8 @@ Create backend/.env:
 
 PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/mern_crud
-Run:
 
+Run:
 
 cd backend
 npm install
@@ -94,8 +94,8 @@ Create frontend/.env:
 
 
 VITE_API_BASE=http://localhost:5000
-Run:
 
+Run:
 
 cd ../frontend
 npm install
