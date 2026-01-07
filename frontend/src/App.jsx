@@ -13,6 +13,7 @@ export default function App() {
     setTodos(res.data);
   }
 
+  
   useEffect(() => {
     loadTodos();
   }, []);
