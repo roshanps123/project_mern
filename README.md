@@ -1,4 +1,4 @@
-## CI/CD Simulation (Conceptual)
+## CI/CD Simulation 
 
 ### 1) CI/CD Steps (5 stages)
 
@@ -116,6 +116,7 @@ PATCH /api/todos/:id -> update todo ({ "title": "...", "done": true/false })
 
 DELETE /api/todos/:id -> delete todo
   
+
 
 
 
